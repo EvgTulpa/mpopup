@@ -1,7 +1,7 @@
 # Example:
-![mpSeq](https://user-images.githubusercontent.com/103635242/167291669-0f65c444-5f12-4e1e-a1cc-74d4d5c9fb45.png)<\n>
-sdfsdf<\n>
-![1](https://user-images.githubusercontent.com/103635242/167291691-589b78f9-f093-49c6-954a-4c1850e45711.png)<\n>
+![mpSeq](https://user-images.githubusercontent.com/103635242/167291669-0f65c444-5f12-4e1e-a1cc-74d4d5c9fb45.png)<br>
+sdfsdf<br>
+![1](https://user-images.githubusercontent.com/103635242/167291691-589b78f9-f093-49c6-954a-4c1850e45711.png)<br>
 
 Class A and B from different sytems starts asynchronously. You do not know wich object will start first, but you need to pass some data from A to B.
 In this example the data by key "coinsContainer" will not be setted, but the "playerCoins" will be received.
